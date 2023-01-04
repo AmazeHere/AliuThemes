@@ -1,0 +1,133 @@
+{
+   "name": "Transgender Theme",
+   "version": "1.0.0",
+   "description": "are you transgender? well this is for you!",
+   "authors": [
+      {
+         "name": "Amaze",
+         "id": "900793535828197446"
+      }
+   ],
+   "color": "#00C853",
+   "theme_color_map": {
+      "KEYBOARD": [
+         "#000000",
+         "#FFFFFF"
+      ],
+      "HEADER_PRIMARY": [
+         "#FBFBFB",
+         "#FFFFFF"
+      ],
+      "HEADER_SECONDARY": [
+         "#B6B6B6",
+         "#FFFFFF"
+      ],
+      "TEXT_NORMAL": [
+         "#FBFBFB",
+         "#FFFFFF"
+      ],
+      "TEXT_MUTED": [
+         "#B6B6B6",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_NORMAL": [
+         "#C8C8C8",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_HOVER": [
+         "#DCDDDE",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+         "#FFFFFF",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_MUTED": [
+         "#747474",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_PRIMARY": [
+         "#F5A9B8",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_SECONDARY": [
+         "#5BCEFA",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+         "#FFFFFF",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_TERTIARY": [
+         "#F5A9B8",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_ACCENT": [
+         "#5BCEFA",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_FLOATING": [
+         "#5BCEFA",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+         "#5BCEFA",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+         "#5BCEFA",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+         "#F5A9B8",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+         "rgba(255, 255, 255, 0.02)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+         "rgba(255, 255, 255, 0.02)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+         "rgba(255, 255, 255, 0.03)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+         "rgba(255, 255, 255, 0.04)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+         "rgba(255, 255, 255, 0.06)",
+         "#FFFFFF"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+         "#292929",
+         "#FFFFFF"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+         "transparent",
+         "#FFFFFF"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+         "#292929",
+         "#FFFFFF"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+         "rgba(0, 0, 0, 0.1)",
+         "#FFFFFF"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+         "transparent",
+         "#FFFFFF"
+      ],
+      "CHANNELS_DEFAULT": [
+         "#B6B6B6",
+         "#FFFFFF"
+      ]
+   },
+   "unsafe_colors": {
+      "CHAT_GREY": "#000000"
+   }
+}
